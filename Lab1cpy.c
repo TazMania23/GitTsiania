@@ -16,6 +16,7 @@
 
 int main(void) {
 	//Just came to say hello
+	printf("This is a test comment\n");
 	double r=0;
 	//Circle Area Part 1
 	printf("What is the radius of your circle?");
